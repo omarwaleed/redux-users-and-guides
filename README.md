@@ -1,9 +1,13 @@
 # Redux Example
 
 To run this application use:
+```
   yarn start
+```
 Or
+```
   npm start
+```
 
 It will automatically open up your web browser
 
